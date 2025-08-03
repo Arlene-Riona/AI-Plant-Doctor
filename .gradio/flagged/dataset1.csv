@@ -1,0 +1,11 @@
+image,output 0,output 1,output 2,timestamp
+.gradio\flagged\image\5459f5266b297c7d0cc9\test4.JPG,🩺 Disease: Pepper__bell___Bacterial_spot,✅ Confidence: 99.99%,"💊 Remedy: ⚠️ Error fetching remedy: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+",2025-07-31 18:24:35.383384
