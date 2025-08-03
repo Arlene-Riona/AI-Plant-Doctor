@@ -1,0 +1,12 @@
+torch
+torchvision
+albumentations
+matplotlib
+pandas
+scikit-learn
+Pillow
+tqdm
+gradio
+google-generativeai
+python-dotenv
+protobuf<4.0.0
